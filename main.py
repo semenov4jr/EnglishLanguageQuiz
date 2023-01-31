@@ -7,6 +7,7 @@ root.configure(bg="#FFE080")
 
 root.title("Викторина")
 root.geometry("600x253+800+200")
+root.resizable(width=False, height=False)
 
 
 def nachalo():
